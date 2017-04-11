@@ -14,7 +14,7 @@ Soon™
 
 ### Contents
 
-- [Beautiful Discord Community - Resources](#beautiful-discord-community---themes-)
+- **MyDiscord Community - Resources**
     - [Themes](https://github.com/beautiful-discord-community/resources#themes)
     - [JavaScript modules](#modules)
 - [Template](#template)
