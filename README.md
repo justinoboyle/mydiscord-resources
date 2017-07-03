@@ -21,7 +21,7 @@ Soon™
 
 ## Modules
 
-  We're waiting for you! Add your contribution to the list 😉
+* [Bowser65/discord-plugins/keybase.js](https://github.com/Bowser65/discord-plugins/blob/master/keybase.js) - Awesome plugin that add Keybase integration to Discord ! [Embed](https://raw.githubusercontent.com/Bowser65/discord-plugins/master/keybase.js) - [Screenshot1](https://bowser65.tk/data/mydiscord-keybase/mydiscord-keybase1.png) [Screenshot2](https://bowser65.tk/data/mydiscord-keybase/mydiscord-keybase2.png) [Screenshot3](https://bowser65.tk/data/mydiscord-keybase/mydiscord-keybase3.png)
 
 ## Template
 
