@@ -23,7 +23,7 @@ Soon™
 
 * [Bowser65/discord-plugins/keybase.js](https://github.com/Bowser65/discord-plugins/blob/master/keybase.js) - Awesome plugin that add Keybase integration to Discord ! [Embed](https://raw.githubusercontent.com/Bowser65/discord-plugins/master/keybase.js) - [Screenshot1](https://bowser65.tk/data/mydiscord-keybase/mydiscord-keybase1.png) [Screenshot2](https://bowser65.tk/data/mydiscord-keybase/mydiscord-keybase2.png) [Screenshot3](https://bowser65.tk/data/mydiscord-keybase/mydiscord-keybase3.png)
 
-* [Pitu/Magane](https://github.com/Pitu/Magane) - Add LINE stickers to Discord in the easiest possible way! [Embed](https://cdn.rawgit.com/Pitu/Magane/master/dist/stickers.min.js) - [Video](https://lolisafe.moe/OXI6AEeH.mp4)
+* [Pitu/Magane](https://github.com/Pitu/Magane) - Add LINE stickers to Discord in the easiest possible way! [Embed](https://raw.githubusercontent.com/Pitu/Magane/master/dist/stickers.min.js) - [Video](https://lolisafe.moe/OXI6AEeH.mp4)
 
 ## Template
 
